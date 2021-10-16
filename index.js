@@ -11,7 +11,7 @@ let title = chalk.black.bold.bgYellow
 let inverse = chalk.inverse
 
 var score = 0;
-var highscore = 15;
+var highscore = 5;
 
 let que = [
   {
